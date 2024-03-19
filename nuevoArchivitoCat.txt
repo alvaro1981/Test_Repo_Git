@@ -1,0 +1,2 @@
+hola este es un nuevo archivo
+creado ccon el comando CAT
